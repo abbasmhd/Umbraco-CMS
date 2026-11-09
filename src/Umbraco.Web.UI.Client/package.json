@@ -37,7 +37,7 @@
     "grunt-ngdocs": "~0.1.2",
     "grunt-open": "~0.2.0",
     "grunt-recess": "~0.3",
-    "karma": "~0.9",
+    "karma": "~6.4",
     "karma-chrome-launcher": "0.0.2",
     "karma-coffee-preprocessor": "0.0.1",
     "karma-firefox-launcher": "0.0.2",
